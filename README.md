@@ -1,2 +1,2 @@
 # kissaki.github.io
-# Hi This is my Github page
+# Hi, This is my Github page
